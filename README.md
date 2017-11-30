@@ -1,11 +1,11 @@
-# node-hello-world
+# falafel72-node-hello-world
 A simple node.js module that prints "Hello World". 
 
 ## Installation
-    `npm install node-hello-world`
+    `npm install falafel72-node-hello-world`
 
 ## Usage 
-    `var hello = require('node-hello-world');
+    `var hello = require('falafel72-node-hello-world');
 Prints "Hello World" on import.
 
 ## Tests
